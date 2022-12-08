@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="baseUrl" translatable="false">https://test-agents.kompanion.kg</string>
+    <string name="clientId" translatable="false">mobileId</string>
+    <string name="clientPw" translatable="false">secret</string>
+    <integer name="spp_topup_card">289</integer>
+    <integer name="spp_payment_acceptance">233</integer>
+    <integer name="spp_payment_for_service">235</integer>
+    <integer name="spp_сashing_out">369</integer>
+    <integer-array name="scannableItems">
+        <item>233</item>
+        <item>369</item>
+    </integer-array>
+    <integer-array name="itemsWithSmsCode">
+        <item>369</item>
+        <item>234</item>
+    </integer-array>
+    <integer-array name="itemsWithReceipt">
+    <item>233</item>
+    <item>237</item>
+</integer-array>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MedicalScanner</string>
+    <string name="general_error_message">Что-то пошло не так, повторите попытку или попробуйте зайти позже</string>
+    <!-- errors -->
+    <string name="error_empty_city">Укажите название города/села</string>
+    <string name="error_empty_birthdate">Укажите дату рождения</string>
+    <string name="error_wrong_number_format">Неверный формат телефона</string>
+    <string name="error_user_not_found">Пользователь не найден</string>
+    <string name="error_user_blocked">Пользователь заблокирован</string>
+    <string name="error_dealer_not_found">Дилер не найден</string>
+    <string name="error_sub_dealer_account_error">Субдилер может иметь только предоплатный кошелек</string>
+    <string name="error_insufficient_balance">Недостаточно средств на счете</string>
+    <string name="error_service_provider_error">Ошибка на стороне поставщика услуги</string>
+    <string name="error_service_blocked">Услуга заблокирована</string>
+    <string name="error_account_error">Ошибка при списании средств</string>
+    <string name="error_invalid_amount">Неправильный формат суммы</string>
+    <string name="error_max_amount_exceeded">Платеж не может быть больше 15000 сом</string>
+    <string name="error_monthly_amount_exceeded">Превышен лимит общей суммы транзакций за текущий месяц</string>
+    <string name="error_card_delete">Произошла ошибка при удалении карты</string>
+    <string name="error_customer_wrong_pin">Неверный PIN</string>
+    <string name="error_opening_pdf_file">Ошибка загрузки чека</string>
+    <string name="error_sign_in_too_many_attemps">Превышен лимит попыток при входе в приложение, необходимо пройти авторизацию заново</string>
+    <string name="error_occurred">Возникла ошибка</string>w
+    <string name="error_files_not_found">Файл не найден</string>
+</resources>
